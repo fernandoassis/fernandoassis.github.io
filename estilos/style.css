@@ -19,6 +19,7 @@ main {
 h1 {
     font-size: 2em;
     color: rgb(58, 0, 112);
+    text-align: center;
 }
 
 h2 {
