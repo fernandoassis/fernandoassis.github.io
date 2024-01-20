@@ -31,6 +31,8 @@ h2 {
 img {
     margin: auto;
     display: block;
+    width: 600ps;
+    height: 500px;
   }
 
 a {
